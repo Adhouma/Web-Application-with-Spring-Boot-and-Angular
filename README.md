@@ -9,7 +9,7 @@ Download or clone the project <br />
 ## Backend
 Open the Java Backend folder (javaSpringBackend) on your favorite editor example(eclipse) <br />
 Run class JavaSpringBackendApplication.java <br />
-Open the browser on URL = http://localhost:8080 <br />
+Open the browser on URL = http://localhost:8080/users <br />
 ## Frontend
 Open the Angular frontend folder (angularFrontend) on Git Bash and type npm install <br />
 Lunch the Angular app <br />
