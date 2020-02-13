@@ -6,7 +6,12 @@ This web application's functionality will be pretty simplistic indeed. It will b
 
 # Test the app
 Download or clone the project <br />
-Run class JavaSpringBackendApplication.java on your favorite editor example(eclipse) on port 8080 <br />
+## Backend
+Open the Java Backend folder (javaSpringBackend) on your favorite editor example(eclipse) <br />
+Run class JavaSpringBackendApplication.java <br />
+Open the browser on URL = http://localhost:8080 <br />
+## Frontend
+Open the Angular frontend folder (angularFrontend) on Git Bash and type npm install <br />
 Lunch the Angular app <br />
 
 😊
