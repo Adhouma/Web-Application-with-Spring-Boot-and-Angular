@@ -7,7 +7,7 @@ This web application's functionality will be pretty simplistic indeed. It will b
 # Test the app
 Download or clone the project <br />
 ## Backend
-Open the Java Backend folder (javaSpringBackend) on your favorite editor example(eclipse) <br />
+Import the Java Backend folder (javaSpringBackend) on your favorite editor example(eclipse) as Existing Maven Projects <br />
 Run class JavaSpringBackendApplication.java <br />
 Open the browser on URL = http://localhost:8080/users <br />
 ## Frontend
